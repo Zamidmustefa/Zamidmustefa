@@ -26,9 +26,9 @@
 
 Here are some notable projects I have worked on:
 
-- GOPromo: [Link to WebApp](https://gopromo.org/)
-- Growthplex: [Link to Project 2](https://app.growthplex.io/)
-- Rumors: [Link to Project 3](https://www.rumors.com.au/)
+- Quasar & Firebase: [GOPromo.org](https://gopromo.org/)
+- MERN: [Growthplex.io](https://app.growthplex.io/)
+- WP & Webflow: [Rumors.com.au](https://www.rumors.com.au/)
 
 Feel free to explore my repositories to see more of my work.
 
