@@ -26,9 +26,9 @@
 
 Here are some notable projects I have worked on:
 
-- Quasar & Firebase: [GOPromo.org](https://gopromo.org/)
-- MERN: [Growthplex.io](https://app.growthplex.io/)
-- WP & Webflow: [Rumors.com.au](https://www.rumors.com.au/)
+- [1688products.com](https://1688products.com/))
+- [AD168](https://ad168.org/)
+- [BIZ168](https://biz168.org/)
 
 Feel free to explore my repositories to see more of my work.
 
