@@ -26,7 +26,7 @@
 
 Here are some notable projects I have worked on:
 
-- [1688products.com](https://1688products.com/))
+- [1688products.com](https://1688products.com/)
 - [AD168](https://ad168.org/)
 - [BIZ168](https://biz168.org/)
 
